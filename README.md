@@ -14,6 +14,8 @@ To execute the public tests using **pytest**, place `projectoFP.py` and `test_pu
 ```bash
 pytest -vv test_public.py
 
+```
+
 ## Requirements:
 
 - **Python 3.x
