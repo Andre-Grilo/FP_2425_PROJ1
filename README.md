@@ -18,38 +18,38 @@ pytest -vv test_public.py
 
 ## Requirements:
 
-- **Python 3.x
+- Python 3.x
 
-- **pytest (install with pip install pytest)
+- pytest (install with pip install pytest)
 
 ## 🧠 Project Overview
 
 The project follows the official MNK specification:
 
-- **Board stored as tuples of tuples
+- Board stored as tuples of tuples
 
-- **Player pieces: 1 = black, -1 = white
+- Player pieces: 1 = black, -1 = white
 
-- **Win condition: k consecutive pieces (horizontal, vertical, diagonal)
+- Win condition: k consecutive pieces (horizontal, vertical, diagonal)
 
-- **Computer AI strategies:
+- Computer AI strategies:
 
-- ***easy
+   - easy
 
-- ***normal
+   - normal
 
-- ***difficult
+   - difficult
 
 ## 🧩 Core Implemented Functions
 
-- **Board structure & validation
+- Board structure & validation
 
-- **Position inspection & manipulation
+- Position inspection & manipulation
 
-- **Line checking (verifica_k_linhas)
+- Line checking (verifica_k_linhas)
 
-- **End‐game detection (eh_fim_jogo)
+- End‐game detection (eh_fim_jogo)
 
-- **Manual move input + AI automatic move
+- Manual move input + AI automatic move
 
-- **Full game execution (jogo_mnk)
+- Full game execution (jogo_mnk)
